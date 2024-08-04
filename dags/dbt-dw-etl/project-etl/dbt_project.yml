@@ -1,0 +1,3 @@
+name: 'project_etl'
+vars:
+    my_name: "Raphael"

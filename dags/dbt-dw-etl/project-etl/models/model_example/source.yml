@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: dl_astro
+    database: db_astro
+    schema: dl_astro  
+    tables:
+      - name: tb_astro_category
